@@ -59,10 +59,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="Syncfusion.Maui.Core" Version="20.21.99" />
-	  <PackageReference Include="Syncfusion.Maui.DataSource" Version="20.21.5" />
-	  <PackageReference Include="Syncfusion.Maui.GridCommon" Version="20.21.5" />
-	  <PackageReference Include="Syncfusion.Maui.ListView" Version="20.21.76" />
+	  <PackageReference Include="Syncfusion.Maui.Core" Version="*" />
+	  <PackageReference Include="Syncfusion.Maui.DataSource" Version="*" />
+	  <PackageReference Include="Syncfusion.Maui.GridCommon" Version="*" />
+	  <PackageReference Include="Syncfusion.Maui.ListView" Version="*" />
 	</ItemGroup>
 
 </Project>
