@@ -174,7 +174,7 @@
 
                             <BoxView Grid.Row="4"
                                      Grid.ColumnSpan="3"
-                                     BackgroundColor="LightGray"
+                                     Color="LightGray"
                                      HeightRequest="0.8"
                                      VerticalOptions="End"
                                      Margin="0,14,0,0" />
