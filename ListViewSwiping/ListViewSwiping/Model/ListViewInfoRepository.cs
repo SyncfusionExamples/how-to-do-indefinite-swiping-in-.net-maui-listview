@@ -60,20 +60,15 @@ namespace ListViewSwiping
         string[] ProfileList = new string[]
         {
             "JL",
-            "DC",
-            "HS",
-            "JO",
             "FM",
-            "RJ",
+            "JR",
             "NR",
             "LC",
             "BA",
             "BK",
             "LT",
-            "NT",
-            "DT",
             "RS",
-            "XB"
+            "XB",
 
         };
 
@@ -99,11 +94,6 @@ namespace ListViewSwiping
             true,
             true,
             false,
-            false,
-            false,
-            true,
-            false,
-            true,
         };
 
 
@@ -119,48 +109,33 @@ namespace ListViewSwiping
             "May",
             "May",
             "June",
-            "July",
-            "Aug",
-            "Aug",
-            "Sep",
-            "Sep"
         };
 
         string[] Subject = new string[]
         {
             "Happy birthday to an amazing employee!",
-            "Like a vintage auto, your value increases...",
-            "Happy Anniversary! Happy Anniversary!",
-            "We wish you an amazing year with accomplishment...",
-            "No one could do a better job than...",
-            "GET WELL SOON!!",
-            "A cheery Christmas hold lots of happiness for you!",
-            "BOO!!! Happy Halloween! Happy Halloween!",
-            "Happy Turkey Day!!",
-            "Wishing you Happy St Pat's Day!",
+            "Happy New Year!",
+            "Get well soon!!",
+            "Merry Christmas!",
+            "Happy Halloween!",
+            "Happy Thanksgiving!!",
+            "Happy St Patrick's Day!",
             "Congratulations on the move!",
-            "Enjoy the new greener pastures!",
-            "Happy Thanksgiving Day!",
             "Never doubt yourself. You’re always...",
-            "The warmest wishes to a great member of our team...",
+            "Warmest wishes...",
         };
 
         string[] Descriptions = new string[] {
-            "Wishing you great achievements in this career, And I hope that you have a great day today!",
             "Happy birthday to one of the best and most loyal employees ever!",
-            "Congrats! May your life continue to be filled with love, laughter and happiness.",
-            "We wish you an amazing year with accomplishment of the great goals that you have set!",
-            "No one could do a better job than the job you do. We thank you for sticking with us!",
-            "Card messages aren't my thing. Get well soon!",
-            "Wishing you a happy Christmas. May it be all that you hope it will be! All the best",
-            "Wishing you a killer Halloween, Don't forget to give us treat or else..",
-            "Happy Turkey Day!. Don't forget to give thanks for being so blessed.",
-            "It's all green which means its all good! HAPPY ST PAT'S",
-            "Congratulations! May you find great happiness at your new address.",
-            "Good luck with the new job and your career aspirations. All the best",
-            "May you enjoy this special day. Happy Thanksgiving to you and your whole family!",
+            "May you be blessed with health, wealth, and happiness this new year.",
+            "Wishing you a speedy recovery. Get well soon!",
+            "Wishing you a happy Christmas. May your Christmas be filled with love, happiness, and prosperity.",
+            "Wishing you a night full of frights and a bag full of delights..",
+            "Wishing you hope, joy, peace, good health, favor, and love on this Thanksgiving Day!",
+            "May you find lots 'o' gold at the end of your rainbow this St. Patrick's Day!",
+            "Congratulations! May you find great happiness in your new home.",
             "Never doubt yourself. You’re always the best! Just continue to be like that!",
-            "Warmest wishes! May your special day be full of good emotions, fun and cheer!"
+            "Happy wedding anniversary to you both. You are special.",
         };
 
         #endregion
