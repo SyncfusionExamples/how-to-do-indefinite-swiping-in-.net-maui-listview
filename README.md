@@ -1,5 +1,5 @@
-# how-to-do-indefinite-swiping-in-.net-maui-listview
-This example demonstrates how to perform indefinite swiping in .Net Maui ListView
+# How to perform indefinite swiping in .NET MAUI ListView (SfListView)?
+This example demonstrates how to perform indefinite swiping in .NET MAUI ListView (SfListView).
 
 ## Sample
 
